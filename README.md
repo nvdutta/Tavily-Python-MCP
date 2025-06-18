@@ -23,4 +23,4 @@ Created as a demonstration of MCP servers. Anthropic's original sample server fo
 }
 ```
 
-Note: For windows machines, be sure to use \\ in place of / for the file path string.
+Note: For windows machines, be sure to use \\\ in place of / for the file path string.
